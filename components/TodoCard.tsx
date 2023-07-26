@@ -64,7 +64,7 @@ function TodoCard({
                 alt="Task image"
                 width={500}
                 height={200}
-                className="h-50 w-full object-contain rounded-b-md"  
+                className="h-48 w-full object-contain rounded-b-md"  
                 />
             </div>
         )}
